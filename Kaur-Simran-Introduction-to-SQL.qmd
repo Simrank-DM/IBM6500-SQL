@@ -137,7 +137,7 @@ I still need more practice with SQL syntax, especially remembering when PostgreS
 # Appendix: Publication Links
 
 -   **GitHub Repository:** <https://github.com/Simrank-DM/IBM6500-SQL>
--   **Published Introduction to SQL Report:** Add the GitHub Pages link after publishing.
+-   **Published Introduction to SQL Report:** <https://simrank-dm.github.io/IBM6500-SQL/Kaur-Simran-Introduction-to-SQL.html>
 
 ## Source
 
